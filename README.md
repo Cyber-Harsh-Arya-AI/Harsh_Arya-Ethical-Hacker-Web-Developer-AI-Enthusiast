@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDk4OXh0dzA5Nms3ZDI5enV3cmNjcGNoaXZiY2g3aHNmcDN1bXdxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjo6iFRwO/giphy.gif" width="100px" />
-</div>
+
 
 <h1 align="center">
   Hi there, I'm Harsh Arya 👋
